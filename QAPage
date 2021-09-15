@@ -1,50 +1,50 @@
 <script type='application/ld+json'>{
-      &quot;@context&quot;: &quot;https://schema.org&quot;,
-      &quot;@type&quot;: &quot;QAPage&quot;,
-      &quot;mainEntity&quot;: {
-        &quot;@type&quot;: &quot;Question&quot;,
-        &quot;name&quot;: &quot;<data:post.title/>&quot;,
-        &quot;text&quot;: &quot;<data:post.snippets.short.jsonEscaped/>&quot;,
-        &quot;answerCount&quot;: 3,
-        &quot;upvoteCount&quot;: 2306,
-        &quot;dateCreated&quot;: &quot;2021-06-22T20:22:00+07:00&quot;,
-        &quot;author&quot;: {
-          &quot;@type&quot;: &quot;Person&quot;,
-          &quot;name&quot;: &quot;Đoàn&quot;
+      "@context": "https://schema.org",
+      "@type": "QAPage",
+      "mainEntity": {
+        "@type": "Question",
+        "name": "<data:post.title/>",
+        "text": "<data:post.snippets.short.jsonEscaped/>",
+        "answerCount": 3,
+        "upvoteCount": 2306,
+        "dateCreated": "2021-06-22T20:22:00+07:00",
+        "author": {
+          "@type": "Person",
+          "name": "Đoàn"
         },
-        &quot;acceptedAnswer&quot;: {
-          &quot;@type&quot;: &quot;Answer&quot;,
-          &quot;text&quot;: &quot;Doannguyen.net với hơn 100+ theme blogspot chuyên nghiệp được thiết kế chuẩn SEO với nhiều mẫu mã thể loại khác nhau.&quot;,
-          &quot;dateCreated&quot;: &quot;2021-06-22T20:22:00+07:00&quot;,
-          &quot;upvoteCount&quot;: 06230,
-          &quot;url&quot;: &quot;<data:post.url/>&quot;,
-          &quot;author&quot;: {
-            &quot;@type&quot;: &quot;Person&quot;,
-            &quot;name&quot;: &quot;DoanNguyenNet&quot;
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Doannguyen.net với hơn 100+ theme blogspot chuyên nghiệp được thiết kế chuẩn SEO với nhiều mẫu mã thể loại khác nhau.",
+          "dateCreated": "2021-06-22T20:22:00+07:00",
+          "upvoteCount": 06230,
+          "url": "<data:post.url/>",
+          "author": {
+            "@type": "Person",
+            "name": "DoanNguyenNet"
           }
         },
-        &quot;suggestedAnswer&quot;: [
+        "suggestedAnswer": [
           {
-            &quot;@type&quot;: &quot;Answer&quot;,
-            &quot;text&quot;: &quot;Doannguyen.net chuyên cung cấp template blogspot bán hàng, tiếp thị liên kết, bất động sản, landing page, ...&quot;,
-            &quot;dateCreated&quot;: &quot;2021-06-22T20:22:00+07:00&quot;,
-            &quot;upvoteCount&quot;: 123,
-            &quot;url&quot;: &quot;https://www.doannguyen.net/search/label/ban-hang?max-results=9&quot;,
-            &quot;author&quot;: {
-              &quot;@type&quot;: &quot;Person&quot;,
-              &quot;name&quot;: &quot;Phương&quot;
+            "@type": "Answer",
+            "text": "Doannguyen.net chuyên cung cấp template blogspot bán hàng, tiếp thị liên kết, bất động sản, landing page, ...",
+            "dateCreated": "2021-06-22T20:22:00+07:00",
+            "upvoteCount": 123,
+            "url": "https://www.doannguyen.net/search/label/ban-hang?max-results=9",
+            "author": {
+              "@type": "Person",
+              "name": "Phương"
             }
           }, {
-            &quot;@type&quot;: &quot;Answer&quot;,
-            &quot;text&quot;: &quot;Kho giao diện blogspot đa dạng mẫu mã, thiết kế đẹp mắt, hỗ trợ khách hàng nhiệt tình và tận tâm.&quot;,
-            &quot;dateCreated&quot;: &quot;2021-06-22T20:22:00+07:00&quot;,
-            &quot;upvoteCount&quot;: 206,
-            &quot;url&quot;: &quot;https://www.doannguyen.net/search/label/giao-dien?max-result=9&quot;,
-            &quot;author&quot;: {
-              &quot;@type&quot;: &quot;Person&quot;,
-              &quot;name&quot;: &quot;Linh&quot;
+            "@type": "Answer",
+            "text": "Kho giao diện blogspot đa dạng mẫu mã, thiết kế đẹp mắt, hỗ trợ khách hàng nhiệt tình và tận tâm.",
+            "dateCreated": "2021-06-22T20:22:00+07:00",
+            "upvoteCount": 206,
+            "url": "https://www.doannguyen.net/search/label/giao-dien?max-result=9",
+            "author": {
+              "@type": "Person",
+              "name": "Linh"
             }
           }
         ]
       }
-  }</script> 
+  }</script>
